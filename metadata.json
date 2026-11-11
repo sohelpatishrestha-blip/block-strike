@@ -1,0 +1,6 @@
+{
+  "name": "BLOCK STRIKE FPS",
+  "description": "Fast-paced low-poly 3D multiplayer first-person shooter with 6 weapons, 4 maps, AI bots, and real-time WebSocket rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
